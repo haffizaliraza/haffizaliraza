@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi  👋
 
 🐍 Python Experts:
 
@@ -19,5 +16,10 @@
 
 "Elixir developers embark on a journey through the concurrency realms, forging robust and scalable systems."
 "In the world of Elixir, we transcend limitations, orchestrating distributed applications with grace and precision."
+
+<!--
+**haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 -->
