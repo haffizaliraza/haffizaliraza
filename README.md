@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali   👋
+🎨 "I am a solution artist at '<a href="https://qwertyexperts.com/">Qwerty Experts</a>' painting innovative paths to success with every stroke of my expertise." 🖌️
 
-https://qwertyexperts.com/
 
 🐍 Python:
 
