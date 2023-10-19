@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali   👋
 🏗️ "I am a software development solution architect at '<a href="https://qwertyexperts.com/">Qwerty Experts</a>' building robust solutions with a blueprint of innovation and code as my tools." 💻🔧🏢
 
-🐍 Python:
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw3dsinUpPV83fIbG66R4Gz2&ust=1697831144651000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICYm4TwgoIDFQAAAAAdAAAAABAE" /> Python:
 
 I am a Python virtuoso, wielding the language with mastery and precision to craft elegant solutions.
 
