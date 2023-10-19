@@ -20,9 +20,8 @@ I excel as a Ruby developer, crafting robust and elegant software with a keen ey
 I am on an exciting journey of learning Elixir, exploring the world of concurrency and distributed systems with curiosity and determination.
 
 Languages and Tools:
-ElixirRuby on RailsRuby on RailsGraphQLNode.jsJavaScriptDockerGitHubTerminalVisual Studio CodeLinuxLinuxLinux
-
-
+🐍 Python, 💎 Ruby, 🛤️ Ruby on Rails, 🌐 REST, 🌐 GraphQL, 🦸‍♂️ TypeScript, 🚀 Node.js, 🖥️ JavaScript, 🐳 Docker,
+🐙 GitHub, 🖥️ Terminal, 🧰 Visual Studio Code, 🐧 Linux,  Mac, ☸️ Kubernetes
 
 <!--
 **haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
