@@ -1,4 +1,48 @@
 ### Hi there, I'm Ali   👋
+
+ <div class="border-top color-border-muted pt-3 mt-3 d-none d-md-block">
+        <div class="d-flex flex-wrap"><a href="/fabpot?achievement=pair-extraordinaire&amp;tab=achievements"
+                class="position-relative"><img
+                    src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"
+                    data-hovercard-type="achievement"
+                    data-hovercard-url="/users/fabpot/achievements/pair-extraordinaire/detail?hovercard=1" width="64"
+                    alt="Achievement: Pair Extraordinaire" data-view-component="true"
+                    class="achievement-badge-sidebar"></a><a
+                href="/fabpot?achievement=quickdraw&amp;tab=achievements" class="position-relative"><img
+                    src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"
+                    data-hovercard-type="achievement"
+                    data-hovercard-url="/users/fabpot/achievements/quickdraw/detail?hovercard=1" width="64"
+                    alt="Achievement: Quickdraw" data-view-component="true" class="achievement-badge-sidebar"></a><a
+                href="/fabpot?achievement=yolo&amp;tab=achievements" class="position-relative"><img
+                    src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"
+                    data-hovercard-type="achievement"
+                    data-hovercard-url="/users/fabpot/achievements/yolo/detail?hovercard=1" width="64"
+                    alt="Achievement: YOLO" data-view-component="true" class="achievement-badge-sidebar"></a><a
+                href="/fabpot?achievement=galaxy-brain&amp;tab=achievements" class="position-relative"><img
+                    src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"
+                    data-hovercard-type="achievement"
+                    data-hovercard-url="/users/fabpot/achievements/galaxy-brain/detail?hovercard=1" width="64"
+                    alt="Achievement: Galaxy Brain" data-view-component="true" class="achievement-badge-sidebar"></a><a
+                href="/fabpot?achievement=arctic-code-vault-contributor&amp;tab=achievements"
+                class="position-relative"><img
+                    src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"
+                    data-hovercard-type="achievement"
+                    data-hovercard-url="/users/fabpot/achievements/arctic-code-vault-contributor/detail?hovercard=1"
+                    width="64" alt="Achievement: Arctic Code Vault Contributor" data-view-component="true"
+                    class="achievement-badge-sidebar"></a><a href="/fabpot?achievement=starstruck&amp;tab=achievements"
+                class="position-relative"><img
+                    src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"
+                    data-hovercard-type="achievement"
+                    data-hovercard-url="/users/fabpot/achievements/starstruck/detail?hovercard=1" width="64"
+                    alt="Achievement: Starstruck" data-view-component="true" class="achievement-badge-sidebar"></a><a
+                href="/fabpot?achievement=pull-shark&amp;tab=achievements" class="position-relative"><img
+                    src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"
+                    data-hovercard-type="achievement"
+                    data-hovercard-url="/users/fabpot/achievements/pull-shark/detail?hovercard=1" width="64"
+                    alt="Achievement: Pull Shark" data-view-component="true" class="achievement-badge-sidebar"></a>
+        </div>
+    </div>
+    
 🏗️ "I am a software development solution architect at '<a href="https://qwertyexperts.com/">Qwerty Experts</a>' building robust solutions with a blueprint of innovation and code as my tools." 💻🔧🏢
 
 🐍 Python:
