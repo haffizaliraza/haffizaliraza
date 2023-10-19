@@ -1,6 +1,5 @@
 ### Hi there, I'm Ali   👋
-🎨 "I am a solution artist at '<a href="https://qwertyexperts.com/">Qwerty Experts</a>' painting innovative paths to success with every stroke of my expertise." 🖌️
-
+🏗️ "I am a software development solution architect at '<a href="https://qwertyexperts.com/">Qwerty Experts</a>' building robust solutions with a blueprint of innovation and code as my tools." 💻🔧🏢
 
 🐍 Python:
 
