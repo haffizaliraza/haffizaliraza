@@ -81,12 +81,18 @@ I am on an exciting journey of learning Elixir, exploring the world of concurren
 </div>
 </td></tr></tbody></table>
 
-  <div style="display: inline-block;">
-    <img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza" height="400px">
-  </div>
-  <div style="display: inline-block;">
-    <img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api?username=haffizaliraza" height="400px">
-  </div>
+  <p dir="auto"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza"
+    alt="Top Langs"
+    data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza"
+    style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow"
+href="https://github-readme-stats.vercel.app/api?username=haffizaliraza"><img
+    src="https://github-readme-stats.vercel.app/api?username=haffizaliraza"
+    alt="Ali's github stats"
+    data-canonical-src="https://github-readme-stats.vercel.app/api?username=hizqeelrz&amp;count_private=true&amp;show_icons=true&amp;theme=dracula&amp;hide=contribs"
+    style="max-width: 100%;"></a>
+</p>
 
 
 
