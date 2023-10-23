@@ -85,8 +85,7 @@ I am on an exciting journey of learning Elixir, exploring the world of concurren
 Most Language Used <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">
 </a>
 </h1>
-<img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza" width="300" height="500">
-<img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza" width="300" height="500">
+<img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">
 
 <!--
 **haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
