@@ -121,6 +121,8 @@ I am on an exciting journey of learning Elixir, exploring the world of concurren
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6819655dad2979647adee4b2f01fc7da674eb0bff06cf25bd576427f091064a1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/6819655dad2979647adee4b2f01fc7da674eb0bff06cf25bd576427f091064a1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667" alt="Docker" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" style="max-width: 100%;"></a>  
 </div>
 </td></tr></tbody></table>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza</a>
 <!--
 **haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
