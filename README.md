@@ -86,6 +86,13 @@ Most Language Used <a href="https://github-readme-stats.vercel.app/api/top-langs
 </a>
 </h1>
 <img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">
+<h1>
+My Stats <a href="https://github-readme-stats.vercel.app/api?username=haffizaliraza">
+</a>
+</h1>
+<img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api?username=haffizaliraza">
+
+
 
 <!--
 **haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
