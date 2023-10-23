@@ -81,15 +81,10 @@ I am on an exciting journey of learning Elixir, exploring the world of concurren
 </div>
 </td></tr></tbody></table>
 
-<h1>
-Most Language Used <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">
-</a>
-</h1>
+<h1>Most Language Used <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza"></a></h1>
 <img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">
-<h1>
-My Stats <a href="https://github-readme-stats.vercel.app/api?username=haffizaliraza">
-</a>
-</h1>
+
+<h1>My Stats <a href="https://github-readme-stats.vercel.app/api?username=haffizaliraza"></a></h1>
 <img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api?username=haffizaliraza">
 
 
