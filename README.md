@@ -122,7 +122,11 @@ I am on an exciting journey of learning Elixir, exploring the world of concurren
 </div>
 </td></tr></tbody></table>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza</a>
+<h1>
+Most Language Used <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza">
+</a>
+</h1>
+<img border="0" alt="W3Schools" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza" width="100" height="100">
 <!--
 **haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
