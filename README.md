@@ -8,7 +8,7 @@
 
 I am a Python virtuoso, wielding the language with mastery and precision to craft elegant solutions.
 
-🚀 JavaScript Artists:
+🚀 JavaScript:
 
 I'm a seasoned JavaScript and TypeScript expert developer with a decade of experience, shaping web applications with precision and innovation.
 
