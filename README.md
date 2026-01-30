@@ -1,21 +1,68 @@
- <div class="markdown-heading" dir="auto" style="text-align: center; margin: 20px;">
-    <h3 class="heading-element" dir="auto" style="font-size: 24px; font-weight: bold; color: #333;">
-      Hi there, I'm Raza
-      <animated-image data-catalyst="" style="width: 20px;">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.imgur.com/u8HivgI.gif" style="text-decoration: none;">
-          <img src="https://i.imgur.com/u8HivgI.gif" alt="Waving hand animation" style="width: 25px; height: 25px; max-width: 100%; display: inline-block; vertical-align: middle; margin-left: 10px;">
-        </a>
-      </animated-image>
-    </h3>
-  </div>
+# 👋 Hi, I'm Hafiz Ali Raza
 
+🚀 **Senior Software Engineer** with 10+ years of experience building backend systems, APIs, and data-driven applications.  
+I enjoy working close to the metal — performance, reliability, and clean architecture matter to me.
 
+---
 
+## 🧠 What I Work With
 
-<!--
-**haffizaliraza/haffizaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+- 🦀 Rust (systems programming, file-based databases, performance tooling)
+- 🐍 Python (APIs, data processing, automation)
+- 💎 Ruby / Ruby on Rails (backend services, legacy systems)
 
+**Backend & Systems**
+- REST APIs, microservices
+- File-based & embedded databases
+- Memory-mapped files (mmap)
+- Query engines & indexing
+- Multithreading & concurrency
 
+**Tools**
+- PostgreSQL, SQLite
+- Docker
+- Git, CI/CD
+- Linux
 
--->
+---
 
+## 🔥 Featured Projects
+
+### 🗄️ sqjson (Rust)
+A SQLite-powered local JSON database written in Rust  
+🔗 https://crates.io/crates/sqjson
+
+**Highlights**
+- Embedded, file-based design
+- JSON querying on top of SQLite
+- Built for speed and simplicity
+
+---
+
+### 🧪 Systems & Backend Experiments
+- Custom file-based databases
+- Query engines & indexing strategies
+- Multithreaded crawlers
+- Performance-focused backend tools
+
+(See my repositories below 👇)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haffizaliraza&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza&layout=compact)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: *add your link*
+- 🧑‍💻 GitHub: https://github.com/haffizaliraza
+- 📧 Email: haffizaliraza@gmail.com
+
+---
+
+⭐ If you like what I build, feel free to star a repo or start a conversation!
