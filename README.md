@@ -26,40 +26,16 @@ I enjoy working close to the metal — performance, reliability, and clean archi
 - Linux
 
 ---
-
-## 🔥 Featured Projects
-
-### 🗄️ sqjson (Rust)
-A SQLite-powered local JSON database written in Rust  
-🔗 https://crates.io/crates/sqjson
-
-**Highlights**
-- Embedded, file-based design
-- JSON querying on top of SQLite
-- Built for speed and simplicity
-
----
-
 ### 🧪 Systems & Backend Experiments
 - Custom file-based databases
 - Query engines & indexing strategies
 - Multithreaded crawlers
 - Performance-focused backend tools
 
-(See my repositories below 👇)
-
 ---
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haffizaliraza&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haffizaliraza&layout=compact)
-
----
-
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *add your link*
+- 💼 LinkedIn: https://www.linkedin.com/in/ali-raza-software-engineer/
 - 🧑‍💻 GitHub: https://github.com/haffizaliraza
 - 📧 Email: haffizaliraza@gmail.com
 
